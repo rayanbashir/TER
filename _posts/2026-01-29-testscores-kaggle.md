@@ -12,6 +12,7 @@ The task was to build a model that could **predict student test scores** based o
 Because of this, I shared ideas, discussed approaches with my peers, learned machine learning and Kaggle terminology (e.g. overfitting, CV/LB score, encoding), and used AI tools such as ChatGPT to create and enhance a predictive model. More importantly, I learned the process of managing data, training models, and gradually improving their accuracy.
 
 Kaggle Competition Results on Public Leaderboard (as of now):
+- Kaggle Username: lilrayray
 - Place: 916
 - Best Score: 8.69287
 
