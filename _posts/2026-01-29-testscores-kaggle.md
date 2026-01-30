@@ -83,13 +83,13 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 <h3>Notebooks & Code</h3>
 
-Exploratory Data Analysis
+Exploratory Data Analysis (created fully using AI)
 [01_eda.ipynb (GitHub)](https://github.com/rayanbashir/TER/blob/master/assets/01_eda.ipynb)
 
-Feature Engineering
+Feature Engineering (creatly mostly using AI, with the exception of the engineered features)
 [02_feature_engineering.ipynb (GitHub)](https://github.com/rayanbashir/TER/blob/master/assets/02_feature_engineering.ipynb)
 
-Final Model (Ridge + CatBoost + LightGBM + XGBoost)
+Final Model (Ridge + CatBoost + LightGBM + XGBoost) (mostly done by me with the help of AI and inspiration from the code tab on the competition page)
 [05_ridge_catlightxg_model.ipynb (GitHub)](https://github.com/rayanbashir/TER/blob/master/assets/05_ridge_catlightxg_model.ipynb)
 
 ---
