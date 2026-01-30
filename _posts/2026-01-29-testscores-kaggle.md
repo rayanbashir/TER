@@ -13,7 +13,7 @@ Because of this, I shared ideas, discussed approaches with my peers, learned mac
 
 Kaggle Competition Results on Public Leaderboard (as of now):
 - Kaggle Username: lilrayray
-- Place: 916
+- Place: 916/3929
 - Best Score: 8.69287
 
 ---
