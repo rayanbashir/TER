@@ -83,7 +83,7 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 <br>
 
-### Exploratory Data Analysis
+Exploratory Data Analysis
 <iframe 
   src="../assets/01_eda.html"
   width="100%" 
@@ -91,7 +91,7 @@ More importantly, I enjoyed having discussions with my peers in class and learni
   style="border: 1px solid #ddd; border-radius: 6px;">
 </iframe>
 
-### Feature Engineering
+Feature Engineering
 <iframe 
   src="../assets/02_feature_engineering.html"
   width="100%" 
@@ -99,7 +99,7 @@ More importantly, I enjoyed having discussions with my peers in class and learni
   style="border: 1px solid #ddd; border-radius: 6px;">
 </iframe>
 
-### Final Model (Ridge + CatBoost + LightGBM + XGBoost)
+Final Model (Ridge + CatBoost + LightGBM + XGBoost)
 <iframe 
   src="../assets/05_ridge_catlightxg_model.html"
   width="100%" 
