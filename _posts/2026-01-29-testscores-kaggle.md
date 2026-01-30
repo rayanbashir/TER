@@ -76,11 +76,38 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 ---
 
-## Notebook & Code
+## Notebooks & Code
 
-The full implementation is available in my Jupyter Notebook:
+<details>
+<summary><strong>View Project Notebooks</strong></summary>
 
+<br>
 
+### Exploratory Data Analysis
+<iframe 
+  src="../assets/01_eda.html"
+  width="100%" 
+  height="600px"
+  style="border: 1px solid #ddd; border-radius: 6px;">
+</iframe>
+
+### Feature Engineering
+<iframe 
+  src="../assets/02_feature_engineering.html"
+  width="100%" 
+  height="600px"
+  style="border: 1px solid #ddd; border-radius: 6px;">
+</iframe>
+
+### Final Model (Ridge + CatBoost + LightGBM + XGBoost)
+<iframe 
+  src="../assets/05_ridge_catlightxg_model.html"
+  width="100%" 
+  height="600px"
+  style="border: 1px solid #ddd; border-radius: 6px;">
+</iframe>
+
+</details>
 
 ---
 
