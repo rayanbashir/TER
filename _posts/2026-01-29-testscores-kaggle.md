@@ -4,7 +4,7 @@ date: 2026-01-29
 tags:
 ---
 
-## Overview
+<h3>Overview<h3>
 
 For this project, I participated in a Kaggle competition with the goal of learning the basics of **machine learning**.  
 The task was to build a model that could **predict student test scores** based on a given dataset.
@@ -18,7 +18,7 @@ Kaggle Competition Results on Public Leaderboard (as of now):
 
 ---
 
-## Strategy & Approach
+<h3>Strategy & Approach<h3>
 
 My general approach looked like this:
 
@@ -44,14 +44,14 @@ My general approach looked like this:
        - Tried to use a neural network and failed miserably
    - Opted for a simpler but effective approach by using multiple models
        - Inspired by a notebook found online, I trained LightGBM, XGBoost, CatBoost, and used Ridge Stacking to blend the models' predictions together (this worked the best)
-       - 
+         
 5. **Evaluation**
    - Avoided overfitting by validating results
    - Submitted to Kaggle to check leaderboard score
 
 ---
 
-## What I Learned
+<h3>What I Learned<h3>
 
 - The importance of **Exploratory Data Analysis**
     - I never realized how important it is to find correlations (graphing also makes this proccess a whole lot easier)
@@ -63,7 +63,7 @@ My general approach looked like this:
 
 ---
 
-## Challenges & Troubles
+<h3>Challenges & Troubles<h3>
 
 Some of the main challenges I ran into:
 
@@ -73,7 +73,7 @@ Some of the main challenges I ran into:
 
 ---
 
-## Results
+<h3>Results<h3>
 
 While my model wasn’t perfect, it achieved a reasonable prediction accuracy and helped me understand the workflow of a machine learning project.
 
@@ -81,7 +81,7 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 ---
 
-## Notebooks & Code
+<h3>Notebooks & Code<h3>
 
 <details>
 <summary><strong>View Notebooks</strong></summary>
@@ -101,7 +101,7 @@ Final Model (Ridge + CatBoost + LightGBM + XGBoost)
 
 ---
 
-## Next Steps
+<h3>Next Steps<h3>
 
 - Experiment with additional models
 - Explore neural networks
