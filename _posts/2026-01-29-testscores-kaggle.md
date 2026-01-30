@@ -83,11 +83,6 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 <h3>Notebooks & Code</h3>
 
-<details>
-<summary><strong>View Notebooks</strong></summary>
-
-<br>
-
 Exploratory Data Analysis
 [01_eda.ipynb (GitHub)](../assets/01_eda.ipynb)
 
@@ -96,8 +91,6 @@ Feature Engineering
 
 Final Model (Ridge + CatBoost + LightGBM + XGBoost)
 [05_ridge_catlightxg_model.ipynb (GitHub)](../assets/05_ridge_catlightxg_model.ipynb)
-
-</details>
 
 ---
 
