@@ -4,7 +4,7 @@ date: 2026-01-29
 tags:
 ---
 
-<h3>Overview<h3>
+<h3>Overview</h3>
 
 For this project, I participated in a Kaggle competition with the goal of learning the basics of **machine learning**.  
 The task was to build a model that could **predict student test scores** based on a given dataset.
@@ -18,7 +18,7 @@ Kaggle Competition Results on Public Leaderboard (as of now):
 
 ---
 
-<h3>Strategy & Approach<h3>
+<h3>Strategy & Approach</h3>
 
 My general approach looked like this:
 
@@ -51,7 +51,7 @@ My general approach looked like this:
 
 ---
 
-<h3>What I Learned<h3>
+<h3>What I Learned</h3>
 
 - The importance of **Exploratory Data Analysis**
     - I never realized how important it is to find correlations (graphing also makes this proccess a whole lot easier)
@@ -63,7 +63,7 @@ My general approach looked like this:
 
 ---
 
-<h3>Challenges & Troubles<h3>
+<h3>Challenges & Troubles</h3>
 
 Some of the main challenges I ran into:
 
@@ -73,7 +73,7 @@ Some of the main challenges I ran into:
 
 ---
 
-<h3>Results<h3>
+<h3>Results</h3>
 
 While my model wasn’t perfect, it achieved a reasonable prediction accuracy and helped me understand the workflow of a machine learning project.
 
@@ -81,7 +81,7 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 
 ---
 
-<h3>Notebooks & Code<h3>
+<h3>Notebooks & Code</h3>
 
 <details>
 <summary><strong>View Notebooks</strong></summary>
@@ -89,19 +89,19 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 <br>
 
 Exploratory Data Analysis
-- [01_eda.ipynb (GitHub)](../assets/01_eda.ipynb)
+[01_eda.ipynb (GitHub)](../assets/01_eda.ipynb)
 
 Feature Engineering
-- [02_feature_engineering.ipynb (GitHub)](../assets/02_feature_engineering.ipynb)
+[02_feature_engineering.ipynb (GitHub)](../assets/02_feature_engineering.ipynb)
 
 Final Model (Ridge + CatBoost + LightGBM + XGBoost)
-- [05_ridge_catlightxg_model.ipynb (GitHub)](../assets/05_ridge_catlightxg_model.ipynb)
+[05_ridge_catlightxg_model.ipynb (GitHub)](../assets/05_ridge_catlightxg_model.ipynb)
 
 </details>
 
 ---
 
-<h3>Next Steps<h3>
+<h3>Next Steps</h3>
 
 - Experiment with additional models
 - Explore neural networks
