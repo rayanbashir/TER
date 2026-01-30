@@ -79,33 +79,18 @@ More importantly, I enjoyed having discussions with my peers in class and learni
 ## Notebooks & Code
 
 <details>
-<summary><strong>View Project Notebooks</strong></summary>
+<summary><strong>View Notebooks</strong></summary>
 
 <br>
 
 Exploratory Data Analysis
-<iframe 
-  src="../assets/01_eda.html"
-  width="100%" 
-  height="600px"
-  style="border: 1px solid #ddd; border-radius: 6px;">
-</iframe>
+- [01_eda.ipynb (GitHub)](../assets/01_eda.ipynb)
 
 Feature Engineering
-<iframe 
-  src="../assets/02_feature_engineering.html"
-  width="100%" 
-  height="600px"
-  style="border: 1px solid #ddd; border-radius: 6px;">
-</iframe>
+- [02_feature_engineering.ipynb (GitHub)](../assets/02_feature_engineering.ipynb)
 
 Final Model (Ridge + CatBoost + LightGBM + XGBoost)
-<iframe 
-  src="../assets/05_ridge_catlightxg_model.html"
-  width="100%" 
-  height="600px"
-  style="border: 1px solid #ddd; border-radius: 6px;">
-</iframe>
+- [05_ridge_catlightxg_model.ipynb (GitHub)](../assets/05_ridge_catlightxg_model.ipynb)
 
 </details>
 
